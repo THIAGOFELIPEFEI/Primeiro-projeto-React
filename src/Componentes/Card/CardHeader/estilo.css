@@ -1,0 +1,24 @@
+
+.card-cabecalho > h2, h4, h6{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.card-cabecalho > h2 {
+    margin: 1rem 0rem 0rem 0rem;
+    
+    font-size: 1.2rem;
+}
+
+.card-cabecalho > h4 {
+    margin: 0rem 0rem 1rem 0rem;
+    color: goldenrod;
+    text-shadow: 0.1rem 0.1rem #282828;
+    font-size: 1.1rem;
+}
+
+.card-cabecalho > h6 {
+    margin: 1.5rem 0rem 1rem 0rem;
+    font-size: 0.9rem;
+}

@@ -1,0 +1,15 @@
+.barra-de-navegacao {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.barra-de-navegacao > li {
+    margin-right: 5rem;
+}
+
+a{
+    text-decoration: none;
+}

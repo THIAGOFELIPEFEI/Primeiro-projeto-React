@@ -1,0 +1,23 @@
+
+.redes-sociais{
+    padding: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    background-color: indigo;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+.redes-sociais > li {
+    list-style-type: none;
+}
+
+.redes-sociais > li > a {
+    color: aliceblue;
+    font-size: 3rem;
+    
+}
